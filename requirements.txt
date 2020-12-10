@@ -1,1 +1,1 @@
-BeautifulSopu==4.9.2
+BeautifulSoup==4.9.2
