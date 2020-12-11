@@ -17,7 +17,7 @@ Imagenes =
 3. Agregar nuevo libro.
 ![Alt tag](https://github.com/jsarmientopu/Proyecto-Programacion-Catalogo/blob/main/Imagenes/Agregar libro.jpg?raw=true)
 
-4. Mostrar catálogo
+4. Mostrar catálogo.
 ![Alt tag](https://github.com/jsarmientopu/Proyecto-Programacion-Catalogo/blob/main/Imagenes/Catálogo.jpg?raw=true)
 
 5. Prestamos.
