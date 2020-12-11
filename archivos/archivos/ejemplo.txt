@@ -1,0 +1,85 @@
+Blue paradise,1,Vicente Tiburcio,Novela actual,Noviembre de 2020,100
+El asesino del bloody mary,1,Julio Fuentes González,Novela negra,Noviembre de 2020,276
+Palabras de luz,0,Victorino A. Miguélez,Poesía actual,Octubre de 2020,148
+Rebelión en la granja,0,George Orwell,Sátira política,1945, 128
+Un mundo feliz,0,Aldos Huxley, ciencia ficción ,1932, 178
+Al calor del tropel,0,Carlos Medina Gallego, ficción, 1991, 203
+La conquista del pan,0,Piotr Kropotkin, Filosofía política,1892, 356
+Las venas abiertas de America Latina,0,Eduardo Galeano, Literatura Latinoamericana,1971, 384
+Principios elementales de filosofia,0, Georges Politzer, Literatura filosófica,1946, 258
+La virgen de los sicarios,1,Fernando Vallejo, Literatura contemporánea: Ficcion autobiográfica,1994, 121
+La naúsea,0,Jean Paul Sartre, Novela filosófica,1938, 253
+Vigilar y castigar,0,Michel Foucault, Monografía-ensayo, 1975, 318
+Nigromante: Bajo la tierra;un antiguo secreto despierta,0, Carlos Sisí, Horror - literatura fantástica,2018, 548
+El extranjero,0,Albert Camus, Novela filosófica - policial, 1942, 184
+La metamorfosis,0,Franz Kafka, Novela corta - literatura fantástica, 1915, 64
+A sangre fría,0,Truman Capote, Novela policial, 1966, 343
+Tropico de cáncer,0,Henry Miller, Novela - literatura erótica, 1934, 318
+100 años de soledad,0,Gabriel Garcia Marquez, Realismo mágico - ficcion épica, 1982, 471
+Don Quijote,0,Miguel de Cervantes, Sátira - novela psicológica, 1605, 1345
+¿Sueñan los androides con ovejas eléctricas?,0,Philip K. Dick, Novela distópica, 1968, 210
+El arco iris de gravedad,0,Thomas Pynchon, Novela - ciencia ficcion, 1973, 760
+La dama de las camelias,0,Alexandre Dumas, Novela rosa, 1852, 115
+La insoportable levedad del ser,0,Milan Kundera, Novela rosa - realismo mágico, 1984, 393
+El segundo sexo,0,Simone de Beauvoir, ensayo - feminismo y existencialismo, 1949, 725
+María ,0,Jorge Isaacs, Ficción- romanticismo, 1867, 346
+La capital,0,Karl Marx, Tratado, 1867, 428
+Cobro de Sangre,0,Mario Mendoza, Ficcion- suspenso, 2004, 288
+Jardín cerrado,0,Carlota Josefina Bérard,Prosa poética. Libro con fotografías.,Octubre de 2020,62
+La duda de Edward de Bry,0,José Alberto Maroto,Investigación científica. Ciencia ficción.,Octubre de 2020,214
+Ramón y Cajal (El ocaso del genio),0,Marcos Larriba Martínez,Biografía,Octubre de 2020,212
+El retablo,0,Teresa Álvarez Olías,Novela actual,Octubre de 2020,406
+Poética en el Siglo de Oro en torno a San Isidro,0,José Gómez Palazón,Poética. Edición crítica. Biografía.,Septiembre de 2020,352
+Cuentos irresponsables,0,Mario Sanz Pascual,Narrativa actual,Septiembre de 2020,156
+Las mujeres del César,0,Carlos de Tomás,Narrativa actual.,Septiembre de 2020,166
+El hombre que fue jueves (Poemario Colectivo I ),0,Varios autores (Selección y prólogo por Valerio Cruciani),Poesía contemporanea,Septiembre de 2020,218
+Gabinete de curiosidades,0,Jorge L. Penabade,Narrativa actual,Agosto de 2020,328
+De andar por casa,0,Elena Fernández Yárritu,Narrativa actual,Agosto de 2020,138
+Estética del viaje (Reflexiones en torno al arte y el nomadismo global),0,Rafael López Borrego,Ensayo. Arte contemporáneo. Sociología,Agosto de 2020,118
+VIRIATO. Historia, historiografía y leyenda de un jefe lusitano,0,Fernando Gil González,Historia. Biografías,Junio de 2020,120
+La niebla verde,0,Enrique Javier de Lara,Novela actual,Junio de 2020,192
+Derecho administrativo mínimo,0,José Ramón Chaves,Manual Jurídico. Tratado de Derecho,Mayo de 2020,788
+Croata,0,Jorge García García,Novela negra. Novela de investigación. Novela policíaca.,Marzo de 2020,374
+Así empezó todo (El origen de la música Pop en Madrid),0,Javier Navarro,Historia de la música. Entrevistas,Febrero de 2020,246
+El libro del azafrán (historias y leyendas del oro rojo),0,Jesús Ávila Granados,Divulgación cultural, agrícola y gastronómica. Libro con fotografías en color y recetas de cocina.,Febrero de 2020,184
+El legado de los malditos,0,Vanesa Redondo,Novela histórica,Febrero de 2020,626
+El silencio de la lengua,0,Luis Melero Marcos,Poética actual. Libro Ilustrado,Febrero de 2020,108
+Una historia del Barrio de los Pizarrales,0,Gustavo Hernández Sánchez,Historia. Historia contemporánea. Biografía social,Enero de 2020,220
+Te espero en la próxima estación,0,Fernando Pardo Ruiz,Novela urbana,Enero de 2020,250
+La mujer del otro,0,José Navarro Ballesteros,Novela urbana,Enero de 2020,208
+Lo inefable del amor,0,Sara Carballal,Narrativa urbana. Prosa poética. Ilustrado,Enero de 2020,90
+Lo inefable del amor (incluye bolso de tela),0,Sara Carballal,Narrativa urbana. Prosa poética. Ilustrado (Incluye bolso de tela),Enero de 2020,90
+Conatus,0,Belén Blesa Aledo,Prosa poética. Fotografías,Enero de 2020,66
+El exilio del alma - Sobre María Zambrano,0,José Ignacio Eguizábal,Humanismo,Diciembre de 2019,104
+¿Dónde están los poetas cuando se les necesita?,0,Iván Robledo,Narrativa,Noviembre de 2019,186
+Las voces amarillas,0,Luis Veres,Novela negra,Noviembre de 2019,204
+¿CÓMO PIERDO PESO? Tengo una aminoacidopatía,0,Aline Leonardo,Alimentación. Recetario de cocina. Enfermedades del metabolismo,Noviembre de 2019,114
+SUB SUA,0,Carla T. Kohlberg,Novela negra,Noviembre de 2019,340
+Cira Leyton - Nosotros, los buenos,0,Iván Robledo,Novela actual. La mujer como protagonista,Octubre de 2019,320
+Una historia en La Habana,0,Carlos Soriano,Novela actual,Octubre de 2019,246
+Los que miran las estrellas,0,Alba Oliva,Narrativa. Investigación y misterio,Septiembre de 2019,360
+América fotografiada (América del Sur y Centroamérica),0,David Flecha,Libro de fotografías - papel fotográfico,Septiembre de 2019,160
+Diario de a bordo (2ª Edición),0,Pilar López Bernués,Novela de misterio,Septiembre de 2019,392
+Una mirada perdida,0,Salva Alemany,Novela urbana,Septiembre de 2019,178
+La vida prometida,0,José Antonio Gargallo Gascón,Novela actual,Septiembre de 2019,184
+Nacionalismo catalán y adoctrinamiento escolar,0,Jesús Rul Gargallo,Educación, Sistema educativo, Comportamiento social y político,Septiembre de 2019,266
+La confesión del Libio,0,Carlos de Tomás,Novela actual,Septiembre de 2019,146
+Cinco días para matar al Papa,0,Iván Robledo,Novela negra,Septiembre de 2019,264
+Los Estados Unidos de Europa explicados a todos (Guía para perplejos),0,Michele Ballerin,Divulgación política y social,Agosto de 2019,124
+Versos desvelados,0,Laura Martínez Gimeno,Poesía actual,Agosto de 2019,86
+El espía cordial,0,Miguel Catalán,Narrativa breve,Julio de 2019,76
+Hijos del fuego,0,Joaquín Castillo,Narrativa fantástica,Mayo de 2019,450
+Llumantia Ilíquida,0,Mónica Velasco,Poesía actual,Mayo de 2019,80
+Mujeres en el agua,0,Patricia Torres,Relatos Ilustrados,Mayo de 2019,276
+Tokyo - Diario Urbano,0,Ignacio de Tomás,Libro de fotografías - papel fotográfico,Mayo de 2019,121
+Churras y Merinas (Visiones, impresiones, realidades),0,Román Álvarez,Artículos periodísticos. Opinión,Mayo de 2019,398
+Blanco,0,Carlota Josefina Bérard,Prosa poética. Relato ilustrado a color,Mayo de 2019,70
+Media Training (Guía para hablar frente a una cámara de vídeo),0,Marcelo Moncayo Badilla,Media Training. Prácticas audiovisuales,Abril de 2019,212
+La mente dibujada,0,Grace Klimt y Salvatwitts,Poesía y prosa poética ilustrada.,Abril de 2019,138
+La Sociedad Inmortal (Hacia la Metamorfosis Humana),0,Francisco Alamar,Ensayo humanístico,Abril de 2019,140
+Dormir à la belle étoile,0,Aitana Monzón,Poesía actual,Marzo de 2019,152
+Burla burlando. Las diversiones de los universitarios en el siglo XVI,0,Alberto del Campo Tejedor,Ensayo histórico. Vida universitaria en el Siglo de Oro.,Marzo de 2019,172
+Cuando el oro aprieta,0,Björn Blanca van Goch,Narrativa,Marzo de 2019,268
+VIRIATO. Historia, historiografía y leyenda de un jefe lusitano,0,Fernando Gil González,Historia. Biografías,Junio de 2020,120
+Cira Leyton - Nosotros, los buenos,0,Iván Robledo,Novela actual. La mujer como protagonista,Octubre de 2019,320
+Churras y Merinas (Visiones, impresiones, realidades),0,Román Álvarez,Artículos periodísticos. Opinión,Mayo de 2019,398
