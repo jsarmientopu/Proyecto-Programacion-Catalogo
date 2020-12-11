@@ -1,4 +1,4 @@
-Nombre proyecto : Catalogo de libros V . 1 . 1
+Nombre proyecto : MiCatalogo V . 2 . 0
 Grupo #8
 Integrantes:
 1. Juan sebastian Sarmiento Pulido 
