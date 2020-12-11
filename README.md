@@ -10,15 +10,15 @@ Imagenes =
 
 1. Inicio de sesión y registro.
 
-![Alt tag](https://github.com/jsarmientopu/Proyecto-Programacion-Catalogo/blob/main/Imagenes/Log-in.jpg?raw=true)
+![Alt tag](https://github.com/jsarmientopu/Proyecto-Programacion-Catalogo/blob/main/Imagenes/Log_in.jpg?raw=true)
 
 2. Menú aplicacion.
 
-![Alt tag](https://github.com/jsarmientopu/Proyecto-Programacion-Catalogo/blob/main/Imagenes/Menú.jpg?raw=true)
+![Alt tag](https://github.com/jsarmientopu/Proyecto-Programacion-Catalogo/blob/main/Imagenes/Menú.png?raw=true)
 
 3. Agregar nuevo libro.
 
-![Alt tag](https://github.com/jsarmientopu/Proyecto-Programacion-Catalogo/blob/main/Imagenes/Agregar-libro.jpg?raw=true)
+![Alt tag](https://github.com/jsarmientopu/Proyecto-Programacion-Catalogo/blob/main/Imagenes/Agregar-_ibro.jpg?raw=true)
 
 4. Mostrar catálogo.
 
@@ -30,4 +30,4 @@ Imagenes =
 
 6. Prestamos activos.
 
-![Alt tag](https://github.com/jsarmientopu/Proyecto-Programacion-Catalogo/blob/main/Imagenes/Mis-prestamos.jpg?raw=true)
+![Alt tag](https://github.com/jsarmientopu/Proyecto-Programacion-Catalogo/blob/main/Imagenes/Mis_prestamos.jpg?raw=true)
